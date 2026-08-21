@@ -10,14 +10,14 @@ I am a cybersecurity and information assurance graduate seeking an entry-level o
 ## Skills
 | Skill                                         | Associated Project        |
 |-----------------------------------------------|---------------------------|
-| Active Directory Domain Services              | Active Directory Home Lab |
+| Active Directory Domain Services              |<a href="https://google.com">Active Directory Home Lab |
 | DNS Configuration and Troubleshooting         | Active Directory Home Lab |
 | DHCP and IP Addressing                        | Active Directory Home Lab |
 | Domain Client Configuration                   | Active Directory Home Lab |
 | Group Policy Management                       | Active Directory Home Lab |
 | Network Traffic Analysis                      | Wireshark Malicious Activity Analysis|                            | TCP/IP and Network Troubleshooting            | Active Directory Home Lab |      
-| Windows Server Administration                 | Active Directory Home Lab |                                       | Networking Configuration                      |Wireshark Malicious Activity Analysis|
-| Packet Capture Analysis                       |Wireshark Malicious Activity Analysis|
+| Windows Server Administration                 | Active Directory Home Lab |                                       | Networking Configuration                      | Wireshark Malicious Activity Analysis|
+| Packet Capture Analysis                       | <a href="https://google.com">Wireshark Malicious Activity Analysis|
 
 ## Tools
 ### Network
