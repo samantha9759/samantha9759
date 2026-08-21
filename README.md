@@ -42,9 +42,9 @@ I am a cybersecurity and information assurance graduate seeking an entry-level o
 </div>
 
 ## Training & Credentials
-  NIST RMF
-  PCI Compliance Foundation
-  Qualys Vulnerability Management/ Qualys Guard Training
+  - NIST RMF
+  - PCI Compliance Foundation
+  - Qualys Vulnerability Management/ Qualys Guard Training
 
 
 ## Projects
