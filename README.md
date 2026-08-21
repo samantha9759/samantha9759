@@ -1,4 +1,4 @@
-# Hello My name is Samantha Thomas
+# Hello, I'm Samantha Thomas
 <a href="https://www.linkedin.com/in/samantha-thomas-182524158/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
